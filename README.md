@@ -23,9 +23,7 @@
  🌱 I'm currently learning **Advanced Algorithms and Web Development Frameworks**
 
  💬 Ask me about **my university projects, web development experiences, or anything tech-related!**
- 
- 🚀 Always eager to apply classroom knowledge to real-world projects
- 
+
  </div>
  
  <br>
@@ -77,7 +75,6 @@
 <div align="center">
   <p>🔍 Advanced Algorithms and Data Structures</p>
   <p>🌐 React.js and Node.js for full-stack development</p>
-  <p>☁️ Cloud computing fundamentals with AWS</p>
 </div>
 
 <br/>
@@ -101,7 +98,7 @@
 <div align="center">
   <strong>Web Developer (Part-time)</strong>
   <br>
-  Company Name | Start Date - Present
+  Vibrand studio| august,2024 - Present
   <br>
   • Develop and maintain client websites using HTML, CSS, Javascript, PHP
   <br>
