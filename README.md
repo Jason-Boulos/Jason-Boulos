@@ -21,7 +21,7 @@
  
  💼 Working part-time as a **Web Developer**
  
- 🌱 I'm currently learning **Advanced Algorithms and Web Development Frameworks**
+ 🌱 I'm currently learning **Algorithms and Web Development Frameworks**
 
  💬 Ask me about **my university projects, web development experiences, or anything tech-related!**
 
