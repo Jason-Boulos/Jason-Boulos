@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,cs,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs,kotlin" /><br>
     <h3>Frameworks & Libraries</h3>
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery" /><br>
     <h3>Tools</h3>
