@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jasonboulos.jasonboulos" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=6A5ACD&center=true&vCenter=true&width=500&height=70&duration=3000&lines=HELLO!+👋;I+debug+code+like+a+detective!;Error+404:+Humor+not+found!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=6A5ACD&center=true&vCenter=true&width=500&height=70&duration=3000&lines=GREETINGS!+;I+debug+code+like+a+detective!;Error+404:+Humor+not+found!;" />
 </h1>
 
 
