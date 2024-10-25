@@ -76,7 +76,7 @@
 <br>
 <div align="center">
   <p>🔍 Advanced Algorithms and Data Structures</p>
-  <p>🌐 React.js and Node.js for full-stack development</p>
+ 
 </div>
 
 <br/>
