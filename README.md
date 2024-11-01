@@ -18,7 +18,7 @@
 
 <div align="center">
  
- 🎓 I'm currently in my **3rd year of Computer Science**
+ 🎓 I'm currently in my **2nd year of Computer Science**
  
  💼 Working part-time as a **Web Developer**
  
