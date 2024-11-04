@@ -39,7 +39,7 @@
     <h3>Frameworks & Libraries</h3>
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery" /><br>
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,mysql," />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,mysql," />
 </div>
 
 
