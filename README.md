@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  I'm a third-year Computer Science student with a deep passion for web development and software engineering. My journey in tech is driven by curiosity and a desire to create innovative solutions that make a difference. When I'm not coding, you'll find me exploring the latest tech trends or working on exciting personal projects!
+  I'm a second year Computer Science student with a deep passion for web development and software engineering. My journey in tech is driven by curiosity and a desire to create innovative solutions that make a difference. When I'm not coding, you'll find me exploring the latest tech trends or working on exciting personal projects!
 </p>
 
 <br/>
